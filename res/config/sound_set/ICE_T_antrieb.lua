@@ -31,7 +31,7 @@ soundsetutil.addTrackParam01
 		"speed01")
 
 soundsetutil.addTrackParam01
-(data, "vehicle/ice_t/drive.wav", 25.0,
+(data, "vehicle/ice_t/drive.wav", 15.0,
 		{
 			{ 0.0 , 0.0 },
 			{ 0.05 , 0.1 },
@@ -45,7 +45,7 @@ soundsetutil.addTrackParam01
 		"speed01")
 
 soundsetutil.addTrackParam01
-(data, "vehicle/ice_t/drive.wav", 25.0,
+(data, "vehicle/ice_t/drive.wav", 15.0,
 		{
 			{ 0.0 , 0.0 },
 			{ 0.24 , 0.0 },
